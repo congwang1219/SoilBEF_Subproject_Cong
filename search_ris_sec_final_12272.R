@@ -25,6 +25,6 @@ print(seq_result$summary)
 # results_sequencing_12272/search_results.ris
 
 
-
+#nextcloud get ris https://cloud.idiv.de/nextcloud/index.php/s/c9GKQo45S9is8p8
 
 
